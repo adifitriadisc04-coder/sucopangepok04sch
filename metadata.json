@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix SD NEGERI SUCOPANGEPOK 04",
+  "description": "Website Resmi SD Negeri Sucopangepok 04 Kabupaten Jember. Sekolah Kaki Langit yang religius, berwawasan IPTEK, dan peduli lingkungan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
